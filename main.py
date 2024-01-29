@@ -1,7 +1,5 @@
 import pyautogui
 import pyperclip
-import win32api
-import win32con
 import time
 import random
 import shutil
